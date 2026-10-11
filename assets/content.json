@@ -1,0 +1,797 @@
+{
+  "selected": [
+    {
+      "id": "24:18",
+      "file": "assets/figma/photo-01.webp",
+      "large": "assets/figma/photo-01-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman in a red embroidered coat, holding a black bag",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:20",
+      "file": "assets/figma/photo-02.webp",
+      "large": "assets/figma/photo-02-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Check-pattern handbag with golden packaging",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:19",
+      "file": "assets/figma/photo-03.webp",
+      "large": "assets/figma/photo-03-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Aperol event installation at Taste of London",
+      "category": "events",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:21",
+      "file": "assets/figma/photo-04.webp",
+      "large": "assets/figma/photo-04-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Bartender holding a drink by red curtains",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "34:37",
+      "file": "assets/figma/photo-05.webp",
+      "large": "assets/figma/photo-05-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman preparing food in a pastel green kitchen",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:24",
+      "file": "assets/figma/photo-06.webp",
+      "large": "assets/figma/photo-06-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Ice cream in a colourful yellow package",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:23",
+      "file": "assets/figma/photo-07.webp",
+      "large": "assets/figma/photo-07-full.webp",
+      "width": 512,
+      "height": 342,
+      "alt": "Woman in yellow with an orange against a purple background",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:31",
+      "file": "assets/figma/photo-08.webp",
+      "large": "assets/figma/photo-08-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Overhead view of an illustrated plate and food packaging",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:22",
+      "file": "assets/figma/photo-10.webp",
+      "large": "assets/figma/photo-10-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Cocktail being poured over ice on a marble table",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:30",
+      "file": "assets/figma/photo-11.webp",
+      "large": "assets/figma/photo-11-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chef in white sitting at a restaurant table",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "30:32",
+      "file": "assets/figma/photo-14.webp",
+      "large": "assets/figma/photo-14-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman wearing Burberry and carrying a check handbag",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "30:33",
+      "file": "assets/figma/photo-15.webp",
+      "large": "assets/figma/photo-15-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chocolate pieces patterned with letters",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:38",
+      "file": "assets/figma/photo-16.webp",
+      "large": "assets/figma/photo-16-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chocolate cherries on a plate over a check tablecloth",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:41",
+      "file": "assets/figma/photo-17.webp",
+      "large": "assets/figma/photo-17-full.webp",
+      "width": 360,
+      "height": 640,
+      "alt": "Illustrated textile and wrapped package tied with black ribbon",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:39",
+      "file": "assets/figma/photo-18.webp",
+      "large": "assets/figma/photo-18-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Man in a grey suit seated on a blue sofa",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:40",
+      "file": "assets/figma/photo-19.webp",
+      "large": "assets/figma/photo-19-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chef pouring sauce over a chocolate dessert",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:44",
+      "file": "assets/figma/photo-20.webp",
+      "large": "assets/figma/photo-20-full.webp",
+      "width": 640,
+      "height": 427,
+      "alt": "Cocktail on a marble bar with blurred glasses",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:55",
+      "file": "assets/figma/photo-26.webp",
+      "large": "assets/figma/photo-26-full.webp",
+      "width": 342,
+      "height": 512,
+      "alt": "Amber cocktail viewed from above on a white table",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:57",
+      "file": "assets/figma/photo-29.webp",
+      "large": "assets/figma/photo-29-full.webp",
+      "width": 293,
+      "height": 439,
+      "alt": "Portrait of two women in white dresses",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:56",
+      "file": "assets/figma/photo-30.webp",
+      "large": "assets/figma/photo-30-full.webp",
+      "width": 424,
+      "height": 640,
+      "alt": "Woman in a pale pink dress on a London rooftop",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "art-02",
+      "file": "assets/art-02-thumb.webp",
+      "large": "assets/art-02.webp",
+      "width": 845,
+      "height": 1200,
+      "alt": "A man seated on a kitchen cooker beneath hanging pans.",
+      "category": "art-direction",
+      "title": "Chef Therapy",
+      "project": "chef-therapy"
+    },
+    {
+      "id": "design-02",
+      "file": "assets/design-02-thumb.webp",
+      "large": "assets/design-02.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "A styled dining table and branded wall display inside an event venue.",
+      "category": "event-design"
+    },
+    {
+      "id": "motion-loop-01",
+      "kind": "loop",
+      "width": 672,
+      "height": 1008,
+      "category": "motion",
+      "alt": "A drinks bottle and a clear glass on fabric in sunlight.",
+      "poster": "assets/motion-poster-01.webp",
+      "duration": 2.16,
+      "file": "assets/motion-loop-01.mp4"
+    },
+    {
+      "id": "JUYmBjPU9bA",
+      "kind": "video",
+      "width": 562,
+      "height": 1000,
+      "category": "motion",
+      "alt": "Models walking along a fashion runway in front of seated guests.",
+      "poster": "assets/motion-video-01.webp",
+      "duration": 40.5,
+      "file": "assets/motion-video-01.webp",
+      "player": "https://www-ccv.adobe.io/v1/player/ccv/JUYmBjPU9bA/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View"
+    }
+  ],
+  "images": [
+    {
+      "id": "24:18",
+      "file": "assets/figma/photo-01.webp",
+      "large": "assets/figma/photo-01-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman in a red embroidered coat, holding a black bag",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:20",
+      "file": "assets/figma/photo-02.webp",
+      "large": "assets/figma/photo-02-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Check-pattern handbag with golden packaging",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:19",
+      "file": "assets/figma/photo-03.webp",
+      "large": "assets/figma/photo-03-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Aperol event installation at Taste of London",
+      "category": "events",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:21",
+      "file": "assets/figma/photo-04.webp",
+      "large": "assets/figma/photo-04-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Bartender holding a drink by red curtains",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "34:37",
+      "file": "assets/figma/photo-05.webp",
+      "large": "assets/figma/photo-05-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman preparing food in a pastel green kitchen",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:24",
+      "file": "assets/figma/photo-06.webp",
+      "large": "assets/figma/photo-06-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Ice cream in a colourful yellow package",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:23",
+      "file": "assets/figma/photo-07.webp",
+      "large": "assets/figma/photo-07-full.webp",
+      "width": 512,
+      "height": 342,
+      "alt": "Woman in yellow with an orange against a purple background",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:31",
+      "file": "assets/figma/photo-08.webp",
+      "large": "assets/figma/photo-08-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Overhead view of an illustrated plate and food packaging",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:22",
+      "file": "assets/figma/photo-10.webp",
+      "large": "assets/figma/photo-10-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Cocktail being poured over ice on a marble table",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "24:30",
+      "file": "assets/figma/photo-11.webp",
+      "large": "assets/figma/photo-11-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chef in white sitting at a restaurant table",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "30:32",
+      "file": "assets/figma/photo-14.webp",
+      "large": "assets/figma/photo-14-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Woman wearing Burberry and carrying a check handbag",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "30:33",
+      "file": "assets/figma/photo-15.webp",
+      "large": "assets/figma/photo-15-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chocolate pieces patterned with letters",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:38",
+      "file": "assets/figma/photo-16.webp",
+      "large": "assets/figma/photo-16-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chocolate cherries on a plate over a check tablecloth",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:41",
+      "file": "assets/figma/photo-17.webp",
+      "large": "assets/figma/photo-17-full.webp",
+      "width": 360,
+      "height": 640,
+      "alt": "Illustrated textile and wrapped package tied with black ribbon",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:39",
+      "file": "assets/figma/photo-18.webp",
+      "large": "assets/figma/photo-18-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Man in a grey suit seated on a blue sofa",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:40",
+      "file": "assets/figma/photo-19.webp",
+      "large": "assets/figma/photo-19-full.webp",
+      "width": 427,
+      "height": 640,
+      "alt": "Chef pouring sauce over a chocolate dessert",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "36:44",
+      "file": "assets/figma/photo-20.webp",
+      "large": "assets/figma/photo-20-full.webp",
+      "width": 640,
+      "height": 427,
+      "alt": "Cocktail on a marble bar with blurred glasses",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:55",
+      "file": "assets/figma/photo-26.webp",
+      "large": "assets/figma/photo-26-full.webp",
+      "width": 342,
+      "height": 512,
+      "alt": "Amber cocktail viewed from above on a white table",
+      "category": "food",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:57",
+      "file": "assets/figma/photo-29.webp",
+      "large": "assets/figma/photo-29-full.webp",
+      "width": 293,
+      "height": 439,
+      "alt": "Portrait of two women in white dresses",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "47:56",
+      "file": "assets/figma/photo-30.webp",
+      "large": "assets/figma/photo-30-full.webp",
+      "width": 424,
+      "height": 640,
+      "alt": "Woman in a pale pink dress on a London rooftop",
+      "category": "fashion",
+      "source": "figma",
+      "categoryProvisional": true
+    },
+    {
+      "id": "food-01",
+      "file": "assets/food-01-thumb.webp",
+      "large": "assets/food-01.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Hands arranging food in a roasting tray in a kitchen.",
+      "category": "food"
+    },
+    {
+      "id": "food-02",
+      "file": "assets/food-02-thumb.webp",
+      "large": "assets/food-02.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "A plated dish on a white plate on a wooden restaurant table.",
+      "category": "food"
+    },
+    {
+      "id": "food-03",
+      "file": "assets/food-03-thumb.webp",
+      "large": "assets/food-03.webp",
+      "width": 886,
+      "height": 1200,
+      "alt": "An overhead arrangement of colourful dishes and small bowls on a dining table.",
+      "category": "food"
+    },
+    {
+      "id": "food-04",
+      "file": "assets/food-04-thumb.webp",
+      "large": "assets/food-04.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A cocktail being finished at a dark bar.",
+      "category": "food"
+    },
+    {
+      "id": "food-05",
+      "file": "assets/food-05-thumb.webp",
+      "large": "assets/food-05.webp",
+      "width": 779,
+      "height": 1200,
+      "alt": "A person in a suit holding a cheeseburger over a white plate.",
+      "category": "food"
+    },
+    {
+      "id": "food-06",
+      "file": "assets/food-06-thumb.webp",
+      "large": "assets/food-06.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A plated dish with green vegetables and orange sauce on a white plate.",
+      "category": "food"
+    },
+    {
+      "id": "fashion-01",
+      "file": "assets/fashion-01-thumb.webp",
+      "large": "assets/fashion-01.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A woman in a pale pink dress standing in a light green kitchen.",
+      "category": "fashion",
+      "title": "Stacey O’Gorman in Paris Georgia 2025"
+    },
+    {
+      "id": "fashion-02",
+      "file": "assets/fashion-02-thumb.webp",
+      "large": "assets/fashion-02.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A woman in a brown dress holding a plate of food in a kitchen.",
+      "category": "fashion",
+      "title": "Stacey O’Gorman in Paris Georgia 2025"
+    },
+    {
+      "id": "fashion-03",
+      "file": "assets/fashion-03-thumb.webp",
+      "large": "assets/fashion-03.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A cream cooker with food and cooking utensils in a tiled kitchen.",
+      "category": "fashion",
+      "title": "Stacey O’Gorman in Paris Georgia 2025"
+    },
+    {
+      "id": "art-01",
+      "file": "assets/art-01-thumb.webp",
+      "large": "assets/art-01.webp",
+      "width": 1200,
+      "height": 851,
+      "alt": "Chef Therapy editorial spread showing a seated man in a suit and close-ups of pasta preparation.",
+      "category": "art-direction",
+      "title": "Chef Therapy",
+      "project": "chef-therapy"
+    },
+    {
+      "id": "art-02",
+      "file": "assets/art-02-thumb.webp",
+      "large": "assets/art-02.webp",
+      "width": 845,
+      "height": 1200,
+      "alt": "A man seated on a kitchen cooker beneath hanging pans.",
+      "category": "art-direction",
+      "title": "Chef Therapy",
+      "project": "chef-therapy"
+    },
+    {
+      "id": "art-03",
+      "file": "assets/art-03-thumb.webp",
+      "large": "assets/art-03.webp",
+      "width": 1200,
+      "height": 851,
+      "alt": "Chef Therapy editorial spread with a seated man and food preparation photographs.",
+      "category": "art-direction",
+      "title": "Chef Therapy",
+      "project": "chef-therapy"
+    },
+    {
+      "id": "art-04",
+      "file": "assets/art-04-thumb.webp",
+      "large": "assets/art-04.webp",
+      "width": 1200,
+      "height": 852,
+      "alt": "A man reclining across a counter in a dimly lit bar.",
+      "category": "art-direction",
+      "title": "Chef Therapy",
+      "project": "chef-therapy"
+    },
+    {
+      "id": "events-01",
+      "file": "assets/events-01-thumb.webp",
+      "large": "assets/events-01.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A guest in a patterned dark jacket at an evening event.",
+      "category": "events"
+    },
+    {
+      "id": "events-02",
+      "file": "assets/events-02-thumb.webp",
+      "large": "assets/events-02.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "Guests at an event, including a woman wearing white and sunglasses.",
+      "category": "events"
+    },
+    {
+      "id": "events-03",
+      "file": "assets/events-03-thumb.webp",
+      "large": "assets/events-03.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "A model in a textured coat walking past a seated fashion-show audience.",
+      "category": "events"
+    },
+    {
+      "id": "events-04",
+      "file": "assets/events-04-thumb.webp",
+      "large": "assets/events-04.webp",
+      "width": 800,
+      "height": 1200,
+      "alt": "Hands preparing drinks in orange cups at an event.",
+      "category": "events"
+    },
+    {
+      "id": "design-01",
+      "file": "assets/design-01-thumb.webp",
+      "large": "assets/design-01.webp",
+      "width": 894,
+      "height": 1200,
+      "alt": "An outdoor Hong Kong lifestyle event installation with grass flooring and display stands.",
+      "category": "event-design"
+    },
+    {
+      "id": "design-02",
+      "file": "assets/design-02-thumb.webp",
+      "large": "assets/design-02.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "A styled dining table and branded wall display inside an event venue.",
+      "category": "event-design"
+    },
+    {
+      "id": "design-03",
+      "file": "assets/design-03-thumb.webp",
+      "large": "assets/design-03.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "People arranging flowers at a workshop table.",
+      "category": "event-design"
+    },
+    {
+      "id": "design-04",
+      "file": "assets/design-04-thumb.webp",
+      "large": "assets/design-04.webp",
+      "width": 1200,
+      "height": 800,
+      "alt": "Two people posing beside an orange covered rickshaw at an outdoor event.",
+      "category": "event-design"
+    },
+    {
+      "id": "motion-loop-01",
+      "kind": "loop",
+      "width": 672,
+      "height": 1008,
+      "category": "motion",
+      "alt": "A drinks bottle and a clear glass on fabric in sunlight.",
+      "poster": "assets/motion-poster-01.webp",
+      "duration": 2.16,
+      "file": "assets/motion-loop-01.mp4"
+    },
+    {
+      "id": "motion-loop-02",
+      "kind": "loop",
+      "width": 540,
+      "height": 360,
+      "category": "motion",
+      "alt": "Hands feeding pasta dough through a machine in a kitchen.",
+      "poster": "assets/motion-poster-02.webp",
+      "duration": 5.12,
+      "file": "assets/motion-loop-02.mp4"
+    },
+    {
+      "id": "JUYmBjPU9bA",
+      "kind": "video",
+      "width": 562,
+      "height": 1000,
+      "category": "motion",
+      "alt": "Models walking along a fashion runway in front of seated guests.",
+      "poster": "assets/motion-video-01.webp",
+      "duration": 40.5,
+      "file": "assets/motion-video-01.webp",
+      "player": "https://www-ccv.adobe.io/v1/player/ccv/JUYmBjPU9bA/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View"
+    },
+    {
+      "id": "EAmPG9JHBwu",
+      "kind": "video",
+      "width": 562,
+      "height": 1000,
+      "category": "motion",
+      "alt": "Batter being poured from a ladle into a tart tin.",
+      "poster": "assets/motion-video-02.webp",
+      "duration": 16.783,
+      "file": "assets/motion-video-02.webp",
+      "player": "https://www-ccv.adobe.io/v1/player/ccv/EAmPG9JHBwu/embed?bgcolor=%23191919&lazyLoading=true&api_key=BehancePro2View"
+    }
+  ],
+  "projects": [
+    {
+      "id": "chef-therapy",
+      "title": "Chef Therapy",
+      "category": "art-direction",
+      "credits": "Photography & Creative Direction: Raffaella Bichiri - Styling: Louis Barry - Hair and MUA: Madhura Dixit - Talent: Chef Francesco Sarvonio",
+      "description": "Food and fashion meet in an editorial centred on Chef Francesco. The kitchen becomes a setting for reflection, where familiar gestures suggest ideas of ritual, control and release. The series approaches taste as both a physical sensation and an emotional experience.",
+      "images": [
+        {
+          "id": "art-02",
+          "file": "assets/art-02-thumb.webp",
+          "large": "assets/art-02.webp",
+          "width": 845,
+          "height": 1200,
+          "alt": "A man seated on a kitchen cooker beneath hanging pans.",
+          "category": "art-direction",
+          "title": "Chef Therapy"
+        },
+        {
+          "id": "art-03",
+          "file": "assets/art-03-thumb.webp",
+          "large": "assets/art-03.webp",
+          "width": 1200,
+          "height": 851,
+          "alt": "Chef Therapy editorial spread with a seated man and food preparation photographs.",
+          "category": "art-direction",
+          "title": "Chef Therapy"
+        },
+        {
+          "id": "art-01",
+          "file": "assets/art-01-thumb.webp",
+          "large": "assets/art-01.webp",
+          "width": 1200,
+          "height": 851,
+          "alt": "Chef Therapy editorial spread showing a seated man in a suit and close-ups of pasta preparation.",
+          "category": "art-direction",
+          "title": "Chef Therapy"
+        },
+        {
+          "id": "art-04",
+          "file": "assets/art-04-thumb.webp",
+          "large": "assets/art-04.webp",
+          "width": 1200,
+          "height": 852,
+          "alt": "A man reclining across a counter in a dimly lit bar.",
+          "category": "art-direction",
+          "title": "Chef Therapy"
+        }
+      ]
+    }
+  ],
+  "about": {
+    "email": "raffy@dishtag.com",
+    "instagram": "https://www.instagram.com/raffaellabic_photography",
+    "linkedin": "https://www.linkedin.com/in/raffaella-bichiri-4a4538165/",
+    "portrait": "assets/about-portrait.webp",
+    "bio": [
+      "I’m Raffaella, a photographer, multidisciplinary creative and content strategist based in London.",
+      "Originally from Italy, I spent almost ten years in Hong Kong before moving to the UK. My background in creative direction, styling, events and brand experiences informs the way I make images and tell stories.",
+      "My work connects photography with design and strategy, across food, fashion and lifestyle. Clients have included The Langham London and Zuma Hong Kong, alongside restaurants such as Duddell’s, Ecriture and Louise."
+    ]
+  }
+}
